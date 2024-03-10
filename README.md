@@ -29,7 +29,7 @@
 
 
 <a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
+### 2.WECODE ASSSIGNMENTS
 
 
 <a name ="QT"></a>
